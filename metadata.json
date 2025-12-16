@@ -1,0 +1,5 @@
+{
+  "name": "Spendwizer",
+  "description": "A privacy-focused, offline-first daily expense tracker with analytics.",
+  "requestFramePermissions": []
+}
